@@ -1,6 +1,5 @@
-# FUTURE_DS_01
-Interactive Excel dashboard analyzing Sales over years
 # 📊 Superstore Sales Dashboard (Excel)
+Interactive Excel dashboard analyzing Sales over years
 
 ## 📊 Overview
 This project presents an interactive Excel dashboard analyzing sales performance, profitability, product categories, and regional trends using the Superstore dataset. The dashboard provides clear business insights to support data-driven decision-making.
